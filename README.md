@@ -34,4 +34,4 @@
 Зелёная - стреляет ядрами с учётом траектории движения игрока.
 <img width="792" height="506" alt="image" src="https://github.com/user-attachments/assets/434f9104-9c56-46e2-84f3-1ad33abff8f2" />
 
-Игра: https://drive.google.com/file/d/1hjUpwQ3k8dR0KlPViqDV9sylnvRWEvLV/view?usp=drive_link
+Игра: https://drive.google.com/file/d/1AVUuDEY8A6uij20Z8G5iKMsxDSwH0ls6/view?usp=drive_link
