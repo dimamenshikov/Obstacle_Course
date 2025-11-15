@@ -24,7 +24,7 @@
     1. Жизни - увеличивает жизни
     2. Монеты - увеличивает очки
     3. Аптечка - увеличивает здоровье
-<img width="792" height="506" alt="image" src="https://github.com/user-attachments/assets/71f64e98-c399-4902-9902-eb306e543041" />
+<img width="792" height="506" alt="image" src="https://github.com/user-attachments/assets/0c3f3f32-8296-4c46-a483-47679334475d" />
 
 6. Пушки: В каждой локации определённый вид пушки. 
 Всего есть 4 вида пушек:
